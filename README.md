@@ -1,43 +1,34 @@
-<h2> Hey there! I'm Aubrey.</h2>
+## Hey there! I'm Aubrey. 👋
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+### 👨🏻‍💻 About Me
+- 🤔 Passionate about exploring new technologies.
+- 🎓 Graduated with a degree in Computer Science.
+- 💼 Exploring opportunities in the DevOps and SRE space.
+- 🌱 Currently diving deeper into DevOps, SRE, and Data Engineering.
 
-- 🤔 Likes to learn about new technology
-- 🎓 My educational background is in computer science
-- 💼 Planning to week within the cloud space
-- 🌱 Currently working on learning DevOps
 
+### 🛠 Tech Stack
+- 💻 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- 🌐 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+- 🛢 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-- 💻 &nbsp;
-![Python](img.shields.io/badge/-Python-333333?style=flat&...)
-- 🌐 &nbsp;
-![HTML5](img.shields.io/badge/-HTML5-333333?style=flat&l...)
-![CSS](img.shields.io/badge/-CSS-333333?style=flat&log...)
-![JavaScript](img.shields.io/badge/-JavaScript-333333?style=f...)
-![Node.js](img.shields.io/badge/-Node.js-333333?style=flat...)
-![React](img.shields.io/badge/-React-333333?style=flat&l...)
-- 🛢 &nbsp;
-![MySQL](img.shields.io/badge/-MySQL-333333?style=flat&l...)
-![MongoDB](img.shields.io/badge/-MongoDB-333333?style=flat...)
-- ⚙️ &nbsp;
-![Git](img.shields.io/badge/-Git-333333?style=flat&log...)
-![GitHub](img.shields.io/badge/-GitHub-333333?style=flat&...)
-![Markdown](img.shields.io/badge/-Markdown-333333?style=fla...)
-- 🔧 &nbsp;
-![Visual Studio Code](img.shields.io/badge/-Visual%20Studio%20Code-33...)
-- 🖥 &nbsp;
-![diagram.net](img.shields.io/badge/-Diagram.net-333333?style=...)
+- ⚙️ ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
+- 🔧 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+- 🖥 ![draw.io](https://img.shields.io/badge/-draw.io-orange?style=flat-square)
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="www.kuralabs.org"><img alt="Website" src="img.shields.io/badge/Website-www.kuralabs.org-o..."></a>
-<a href="https://www.linkedin.com/in/aubrey-zhang/"><img alt="LinkedIn" src="Aubrey%20Zhang"></a>
-<a href="aubrey.zhang06@gmail.com"><img alt="Email" src="img.shields.io/badge/Email-tsanderson@kuralabs...."></a>
+<a href="https://www.linkedin.com/in/aubrey-zhang/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aubrey%20Zhang-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:aubrey.zhang06@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aubrey.zhang06%40gmail.com-red?style=flat-square&logo=gmail"></a>
 </p>
 <!---
 auzhangLABS/auzhangLABS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
